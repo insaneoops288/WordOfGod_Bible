@@ -3,9 +3,9 @@
 # Have you found your way to heaven?
 # 당신은 하늘나라에 들어가는 길을 찾았나요?
 
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo.png" > 
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo1.png" > 
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo6.png" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo4.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo5.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo6.jpg" > 
 
 - **["International WordOf God" GitHub Link.](https://github.com/insaneoops288/WordOfGod_Bible)**
 <img src="https://github.com/insaneoops288/Bible/blob/main/Images/Bible017.png" > 
