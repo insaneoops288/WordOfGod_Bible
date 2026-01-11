@@ -116,3 +116,9 @@
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod116.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod117.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod118.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod119.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod120.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod121.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod122.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod123.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/WordOfGod124.jpg" > 
