@@ -5,6 +5,7 @@
 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo4.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo5.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo11.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo6.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo7.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo8.jpg" > 
