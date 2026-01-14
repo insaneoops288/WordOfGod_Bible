@@ -13,6 +13,8 @@
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo8.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo9.jpg" > 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo10.jpg" > 
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo17.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchLogo18.jpg" >
 
 - **["International WordOf God" GitHub Link.](https://github.com/insaneoops288/WordOfGod_Bible)**
 <img src="https://github.com/insaneoops288/Bible/blob/main/Images/Bible017.png" > 
