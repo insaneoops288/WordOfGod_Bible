@@ -1,3 +1,5 @@
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church00.jpg" >
+
 # WordOfGod_Bible
 
 # Have you found your way to heaven?
