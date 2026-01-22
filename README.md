@@ -1,4 +1,5 @@
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church00.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church22.jpg" >
 
 # WordOfGod_Bible
 
