@@ -1,5 +1,5 @@
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church00.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church22.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church01.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church02.jpg" >
 
 # WordOfGod_Bible
 
@@ -7,14 +7,9 @@
 # 당신은 하늘나라에 들어가는 길을 찾았나요?
 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchWallpaper2.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church01.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church02.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church03.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church04.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church05.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church23.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church20.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church21.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church06.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church07.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church08.jpg" >
@@ -29,6 +24,14 @@
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church17.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church18.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church19.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church20.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church21.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church22.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church23.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church24.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church25.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church26.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church27.jpg" >
 
 - **["International WordOf God" GitHub Link.](https://github.com/insaneoops288/WordOfGod_Bible)**
 <img src="https://github.com/insaneoops288/Bible/blob/main/Images/Bible017.png" > 
