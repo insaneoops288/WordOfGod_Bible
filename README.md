@@ -3,8 +3,14 @@
 
 # WordOfGod_Bible
 
-# Have you found your way to heaven?
-# 당신은 하늘나라에 들어가는 길을 찾았나요?
+- 당신은 하늘나라에 들어가는 길을 찾았나요?
+
+- Have you found your way to heaven?
+
+- 하나님의 말씀인 성경은 진리이며 영원한 생명의 말씀이며 하나님의 사랑입니다
+- The Bible, the Word of God, is truth, the Word of eternal life, and God's love. 
+- 아버지께서 자녀에게 해주는 헌신적인 사랑의 말씀입니다. 
+- It is the word of the Father's devoted love for His children.
 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchWallpaper2.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church03.jpg" >
